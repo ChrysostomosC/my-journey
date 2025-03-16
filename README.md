@@ -32,8 +32,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ![Screenshot 2025-03-16 144347](https://github.com/user-attachments/assets/cc1ab0e6-12c7-4895-832b-ed4747380f20)
 
-
-
-
-
-
+https://github.com/user-attachments/assets/534198a5-b14b-4c12-94dc-6c9adc3f5242
