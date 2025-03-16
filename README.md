@@ -1,4 +1,5 @@
-This web application is designed to present and document the projects and exercises I have completed throughout the course. The site includes:
+This web application is designed to present and document the projects and exercises I have completed. 
+The site includes:
 
 A personal introduction where I describe my skills, interests, and what I enjoy most about development (frontend, backend, databases, etc.).
 A project showcase featuring the different tasks I have completed, with descriptions and screenshots of both the code and the results.
