@@ -27,7 +27,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Screenshots and videos
 
-![Screenshot 2025-03-16 144259](https://github.com/user-attachments/assets/0f3bebcb-ee30-4cad-babb-4ad33ac4a8cf)
+![Screenshot 2025-03-16 144259](https://github.com/user-attachments/assets/0f3bebcb-ee30-4cad-babb-4ad33ac4a8cf) <hr />
 
 ![Screenshot 2025-03-16 144322](https://github.com/user-attachments/assets/165203bd-4a38-46dc-9300-5ce254ef5b82)
 
