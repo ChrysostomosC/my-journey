@@ -8,7 +8,6 @@ The site is built using Vue.js, with extra effort put into the styling and UI de
 
 ### https://my-journeycc.netlify.app/#/
 
-### https://app.netlify.com/sites/my-journeycc/overview
 # my-journey
 
 ## Project setup
