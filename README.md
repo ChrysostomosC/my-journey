@@ -6,6 +6,8 @@ A project showcase featuring the different tasks I have completed, with descript
 Clickable project links so visitors can explore each project in more detail.
 The site is built using Vue.js, with extra effort put into the styling and UI design to make it visually appealing.
 
+### https://my-journeycc.netlify.app/#/
+
 ### https://app.netlify.com/sites/my-journeycc/overview
 # my-journey
 
