@@ -1,10 +1,12 @@
-This web application is designed to present and document the projects and exercises I have completed. 
-The site includes:
+# 📁 My Developer Portfolio – Vue.js
+This web application serves as a showcase of my development journey, featuring the projects and exercises I have completed.<br />
+Built with Vue.js, it highlights my skills, interests, and technical expertise in frontend, backend, and databases.<br />
 
-A personal introduction where I describe my skills, interests, and what I enjoy most about development (frontend, backend, databases, etc.).
-A project showcase featuring the different tasks I have completed, with descriptions and screenshots of both the code and the results.
-Clickable project links so visitors can explore each project in more detail.
-The site is built using Vue.js, with extra effort put into the styling and UI design to make it visually appealing.
+## 🚀 Features
+🔹 Personal Introduction – Learn more about my skills, interests, and what I enjoy most about development.<br />
+🔹 Project Showcase – Browse through various projects with detailed descriptions and screenshots of both the code and final results.<br />
+🔹 Live Demos & Code Previews – Clickable links to explore each project in action.<br />
+🔹 Modern UI & Styling – Designed with a strong focus on visual appeal and user experience.<br />
 
 ### https://my-journeycc.netlify.app/#/
 
