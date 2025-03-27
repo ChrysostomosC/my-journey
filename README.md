@@ -8,7 +8,8 @@ Built with Vue.js, it highlights my skills, interests, and technical expertise i
 🔹 Live Demos & Code Previews – Clickable links to explore each project in action.<br />
 🔹 Modern UI & Styling – Designed with a strong focus on visual appeal and user experience.<br />
 
-### https://my-journeycc.netlify.app/#/
+## 🔗 Live Demo
+https://my-journeycc.netlify.app/#/
 
 # my-journey
 
